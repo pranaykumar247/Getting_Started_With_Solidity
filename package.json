@@ -1,0 +1,26 @@
+{
+  "name": "my_solidity_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranaykumar247/Getting_Started_With_Solidity.git"
+  },
+  "author": "Pranay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pranaykumar247/Getting_Started_With_Solidity/issues"
+  },
+  "homepage": "https://github.com/pranaykumar247/Getting_Started_With_Solidity#readme",
+  "description": "",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.3"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.2"
+  }
+}
